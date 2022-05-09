@@ -1,0 +1,47 @@
+﻿
+@model List<Book> 
+@if (Model.Count==0)
+{
+ <div class="container">
+     <div class="row">
+            <div class="col col-lg-8">
+
+               this name not founded
+            </div>
+   
+          <div class="col col-lg-4">
+                @Html.ActionLink("Back To Home","Index") 
+            </div>
+        </div>
+        </div>
+}else{
+
+@foreach (var item in Model) {
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap" style="width:350px;height:300px">
+              <img src="~/Images/@item.Image" class="img-fluid" alt="" style="width:100%;height:100%">
+              <div class="portfolio-info">
+                <h4>@item.Name</h4>
+                <p>@item.PublishDate</p>
+                 <p>@item.Language</p>
+                    <p>@item.Pages</p>
+                 <p>@item.Category.Name</p>
+                  @foreach(var item2 in item.authors)
+                    {
+                         <p>@item2.Name</p>
+                    } 
+                   <div class="portfolio-links">
+           <a href="/Book/Details/@item.Id" class="btn text-center" style ="background-color:#009970; color:white;    width: 100px;
+    height: 35px;
+    font-size: 15px;">view book</a>
+                        <a href="/Downloads/Download/@item.Id" class="btn  text-center" style ="background-color:#009970; color:white;    width: 100px;
+    height: 35px;
+    font-size: 15px;">Download</a>
+                       <i class="fa-regular fa-heart" style=" font-size:20px; color:#009970; margin-top:20px;    top: 35px;
+    left: -51%;" onclick="AddToFavs(@item.Id)" id = "favIcon"></i>
+                </div>
+              </div>
+            </div>
+          </div>
+          }
+}

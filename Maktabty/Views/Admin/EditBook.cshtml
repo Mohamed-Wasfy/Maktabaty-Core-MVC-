@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Books";
+    Layout = "_DashboardLayout.cshtml";
+    SelectList Cats = new SelectList(ViewBag.Cats,"Id","Name");
+    SelectList Authors = new SelectList(ViewBag.Authors, "Id", "Name");
+}
+@model addBookVM
+<form method="post" asp-action="SaveEditBook" asp-controller="Admin" asp-route-id="@Model.Id" enctype="multipart/form-data">
+    <div>
+         <label for="Name">Name</label>
+         <input asp-for="@Model.Name" class="form-control"/>
+         <span asp-validation-for="@Model.Name"></span>
+    </div>
+     <div>
+        <label for="Image">Image</label>
+        <input type="file" name="Image" accept="image/*" id="Image" value="@Model.Image"class="form-control"/>
+    </div>
+         <div>
+        <label for="book">book</label>
+        <input type="file" name="book" accept="book/*" id="Image" value="@Model.book"class="form-control"/>
+    </div>
+     <div>
+        <label for="Language">Language</label>
+        <input asp-for="@Model.Language" class="form-control"/>
+         <span asp-validation-for="@Model.Language"></span>
+    </div>
+    <div>
+        <label for="Pages">Pages</label>
+        <input asp-for="@Model.Pages" class="form-control"/>
+        <span asp-validation-for="@Model.Pages"></span>
+    </div>
+      <div>
+        <label for="Description">Description</label>
+        <input asp-for="@Model.Description" class="form-control"/>
+         <span asp-validation-for="@Model.Description"></span>
+    </div>
+    <div>
+        <label for="PublishDate">Publish Date</label>
+        <input asp-for="@Model.PublishDate" class="form-control"/>
+         <span asp-validation-for="@Model.PublishDate"></span>
+    </div>
+     <div>
+        <label for="Category">Category</label>
+        <select asp-for="CategoryId" asp-items="Cats" class="form-control"></select>
+    </div>
+    <br/>
+    <input type="submit" value="Edit" class="btn" style="background-color:#009970" />
+</form>
+<br/>
+<a href="/Admin/Books" class="btn" style=" position: relative;
+    left: 90%;
+    top: -40px;background-color:#009970"> Back To List</a>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+

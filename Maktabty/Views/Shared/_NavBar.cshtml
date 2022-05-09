@@ -1,0 +1,53 @@
+﻿
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top d-flex align-items-center">
+    <div class="container">
+      <div class="header-container d-flex align-items-center justify-content-between" style="    padding-right: 100px;">
+        <div class="logo">
+          <h1 class="text-light"><a href="/Book/Index"><span>BOOK WORM</span></a></h1>
+        </div>
+
+        <nav id="navbar" class="navbar">
+          <ul>
+      
+            <li><a class="nav-link scrollto active" href="/Book/Index">Home</a></li>
+           
+            <li><a class="nav-link scrollto" href="/Book/About">About</a></li>
+            <li><a class="nav-link scrollto" href="/Book/Services">Services</a></li>
+                        <li><a class="nav-link scrollto" href="/Book/Team">Team</a></li>
+            <li><a class="nav-link scrollto " href="/Book/Contact">Contact</a></li>
+                    @if (User.Identity.IsAuthenticated == false)
+                    {
+                        <li><a class="getstarted scrollto" href="/Account/Register">Sign Up</a></li>
+                    }
+                    else{
+                        if (User.IsInRole("admin"))
+                        {
+                             <li><a class="getstarted scrollto" href="/Admin/Books">Dashboard</a></li> 
+                        }
+                        else
+                        {
+                            <li>
+                                <div class="dropdown">
+                     <a class=" dropdown-toggle" href="#" type="button"
+                     id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                   Profile
+                  </a>
+                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                   <li><a class="dropdown-item" href="/profile/profile/a1">Profile</a></li>
+                  <li><a class="dropdown-item" href="/downloads/downloads/a1">Downloads</a></li>
+                  <li><a class="dropdown-item" href="/favlist/favlist/a1">Favorits</a></li>
+                      <li><a class="dropdown-item" href="/Account/Signout">Logout</a></li>
+                </ul>
+                </div>
+            </li>
+                }
+                        
+                        }
+                    </ul>
+          <i class="bi bi-list mobile-nav-toggle"></i>
+        </nav><!-- .navbar -->
+
+      </div><!-- End Header Container -->
+    </div>
+  </header><!-- End Header -->

@@ -1,0 +1,137 @@
+﻿@{
+    Layout = null;
+}
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Admin Dashboard</title>
+
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css"  rel="stylesheet" />
+    <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="~/vendor/aos/aos.css" rel="stylesheet">
+  <link href="~/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="~/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="~/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="~/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="~/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="~/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/register2.css">
+    <link rel="stylesheet" href="~/css/login2.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Varela+Round">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+  <!-- Template Main CSS File -->
+  <link href="~/css/style1.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="~/css/dashboard.css" rel="stylesheet">
+    <style>
+        #header .header-container {
+    background: #ece6e6;
+}
+    </style>
+</head>
+<body>
+       <header>
+       <partial name="_NavBar" />
+    </header>
+    <div class="container-fluid" style="margin-top:120px">
+        <div class="row">
+            <nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block sidebar collapse" style="background-color:#009970">
+                <div class="position-sticky pt-3" style="background-color:#009970">
+                    <ul class="nav flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="/admin/books" style="color:#fff">
+                                <span data-feather="home"></span>
+                                Books
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/admin/categories" style="color:#fff">
+                                <span data-feather="file"></span>
+                                Categories
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/admin/users" style="color:#fff">
+                                <span data-feather="shopping-cart"></span>
+                                Users
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/admin/Authors" style="color:#fff">
+                                <span data-feather="users"></span>
+                                Authors
+                            </a>
+                        </li>
+                             <li class="nav-item">
+                            <a class="nav-link" href="/Account/Signout" style="color:#fff">
+                                <span data-feather="LogOut"></span>
+                                LogOut
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+                @RenderBody()
+            </main>
+        </div>
+    </div>
+
+
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+ 
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+      <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="~/vendor/purecounter/purecounter.js"></script>
+  <script src="~/vendor/aos/aos.js"></script>
+  <script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+      <script src="https://kit.fontawesome.com/4990f6ce63.js" crossorigin="anonymous"></script>
+  <script src="~/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="~/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="~/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="~/vendor/php-email-form/validate.js"></script>
+  <!-- Template Main JS File -->
+  <script src="~/js/main.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    <script>
+$(document).ready(function(){
+	// Activate tooltip
+	$('[data-toggle="tooltip"]').tooltip();
+	
+	// Select/Deselect checkboxes
+	var checkbox = $('table tbody input[type="checkbox"]');
+	$("#selectAll").click(function(){
+		if(this.checked){
+			checkbox.each(function(){
+				this.checked = true;                        
+			});
+		} else{
+			checkbox.each(function(){
+				this.checked = false;                        
+			});
+		} 
+	});
+	checkbox.click(function(){
+		if(!this.checked){
+			$("#selectAll").prop("checked", false);
+		}
+	});
+});
+</script>
+</body>
+</html>

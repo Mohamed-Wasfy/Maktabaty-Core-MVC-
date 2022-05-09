@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "BookDetails";
+    Layout = "_DashboardLayout.cshtml";
+}
+@model Book
+<h3>@Model.Name</h3>
+<div><img  src="/Images/@Model.Image"/></div>
+<div>Pages: @Model.Pages</div>
+<div>Language: @Model.Language</div>
+<div>Num of Downloads: @Model.NumOfDownloads</div>
+<div>Authors</div>
+<ul>
+    @foreach(var author in @Model.authors)
+    {
+        <li>@author.Name</li>
+    }
+</ul>

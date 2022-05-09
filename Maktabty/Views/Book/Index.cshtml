@@ -1,0 +1,362 @@
+﻿@model BookVM
+
+@{
+    ViewData["Title"] = "Index";
+     SelectList authorList=new SelectList(Model.Author,"Id","Name");
+      SelectList categoryList=new SelectList(Model.Category,"Id","Name");
+}
+
+  
+  <main id="main">
+
+    <!-- ======= Clients Section ======= -->
+    <section id="clients" class="clients">
+      <div class="container">
+
+        <div class="row">
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center" data-aos="zoom-in" data-aos-delay="100">
+            <img src="~/img/clients/client-1.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center" data-aos="zoom-in" data-aos-delay="200">
+            <img src="~img/clients/client-2.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center" data-aos="zoom-in" data-aos-delay="300">
+            <img src="~/img/clients/client-3.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center" data-aos="zoom-in" data-aos-delay="400">
+            <img src="~/img/clients/client-4.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center" data-aos="zoom-in" data-aos-delay="500">
+            <img src="~/img/clients/client-5.png" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center" data-aos="zoom-in" data-aos-delay="600">
+            <img src="~/img/clients/client-6.png" class="img-fluid" alt="">
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Clients Section -->
+
+    
+
+    <!-- ======= Why Us Section ======= -->
+    <section id="why-us" class="why-us">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-lg-4 d-flex align-items-stretch" data-aos="fade-right">
+            <div class="content">
+              <h3>Why Choose Bethany for your company website?</h3>
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
+              </p>
+              <div class="text-center">
+                <a href="#" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-8 d-flex align-items-stretch">
+            <div class="icon-boxes d-flex flex-column justify-content-center">
+              <div class="row">
+                <div class="col-xl-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+                  <div class="icon-box mt-4 mt-xl-0">
+                    <i class="bx bx-receipt"></i>
+                    <h4>Corporis voluptates sit</h4>
+                    <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                  </div>
+                </div>
+                <div class="col-xl-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="200">
+                  <div class="icon-box mt-4 mt-xl-0">
+                    <i class="bx bx-cube-alt"></i>
+                    <h4>Ullamco laboris ladore pan</h4>
+                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                  </div>
+                </div>
+                <div class="col-xl-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="300">
+                  <div class="icon-box mt-4 mt-xl-0">
+                    <i class="bx bx-images"></i>
+                    <h4>Labore consequatur</h4>
+                    <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                  </div>
+                </div>
+              </div>
+            </div><!-- End .content-->
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Why Us Section -->
+
+   
+
+    <!-- ======= Search Section ======= -->
+    <section class="search">
+        <div class="container">
+    <div class="row" style="margin:20px 0px">
+        <div class="col col-lg-11">
+<input type="text"  class="form-control" id="bookName" placeholder="Search By Name"/>
+        </div>
+        <div class="col col-lg-1">
+<button class="btn btn-success" onclick="getData()" style="padding:4px 25px;">Search</button>
+        </div>
+    </div>
+       <div class="row" style="margin-bottom:20px">
+        <div class="col col-lg-6">
+<select class="form-control" id="authorId" name="authorId" asp-items="authorList"
+onchange="getAuthorData()">
+<option>Select By Author</option>
+<option value="0">All</option>
+</select>
+        </div>
+         <div class="col col-lg-6">
+<select class="form-control" id="categoryId" name="categoryId" asp-items="categoryList"
+onchange="getCategoryData()">
+<option>Select By Category</option>
+<option value="0">All</option>
+</select>
+        </div>
+    </div>
+</div>
+
+    </section>
+    <!-- End Search Section -->
+    <!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="portfolio">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-left">
+          <h2>Books</h2>
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        </div>
+
+
+        <div  class="row portfolio-container"  data-aos="fade-up" data-aos-delay="200" id="tbody">
+            
+@foreach (var item in Model.Book) {
+          <div  class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap" style="width:350px;height:300px">
+              <img src="~/Images/@item.Image" class="img-fluid" alt="" style="width:100%;height:100%">
+              <div class="portfolio-info">
+                <h4>@item.Name</h4>
+                <p>@item.PublishDate</p>
+                 <p>@item.Language</p>
+                    <p>@item.Pages</p>
+                      @foreach(var item2 in item.authors)
+                    {
+                         <p>@item2.Name</p>
+                    }
+                 <p>@item.Category.Name</p>
+                 <p>
+                     @for (var i = 0; i < item.TotalRate; i++)
+                    {
+                         <span style="color:yellow" class="bi bi-star"></span>
+
+                    }
+                     @for (var i = 0; i < 5-item.TotalRate; i++)
+                    {
+                         <span class="bi bi-star"></span>
+
+                    }
+                 </p>
+                 
+                 
+                 
+                <div class="portfolio-links">
+           <a href="/Book/Details/@item.Id" class="btn text-center" style ="background-color:#009970; color:white;    width: 100px;
+    height: 35px;
+    font-size: 15px;">view book</a>
+                        <a href="/Downloads/Download/@item.Id" class="btn  text-center" style ="background-color:#009970; color:white;    width: 100px;
+    height: 35px;
+    font-size: 15px;">Download</a>
+                       <i class="fa-regular fa-heart" style=" font-size:20px; color:#009970; margin-top:20px;    top: 35px;
+    left: -51%;" onclick="AddToFavs(@item.Id)" id = "favIcon"></i>
+                </div>
+              </div>
+            </div>
+
+          </div>
+          }
+
+         
+        </div>
+
+      </div>
+    </section><!-- End Portfolio Section -->
+
+    <!-- ======= Testimonials Section ======= -->
+    <section id="testimonials" class="testimonials section-bg">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-lg-4">
+            <div class="section-title" data-aos="fade-right">
+              <h2>Testimonials</h2>
+              <p>Magnam dolores commodi suscipit uisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+            </div>
+          </div>
+          <div class="col-lg-8" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+              <div class="swiper-wrapper">
+
+                <div class="swiper-slide">
+                  <div class="testimonial-item">
+                    <p>
+                      <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                      Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                      <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                    </p>
+                    <img src="~/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                    <h3>Saul Goodman</h3>
+                    <h4>Ceo &amp; Founder</h4>
+                  </div>
+                </div><!-- End testimonial item -->
+
+                <div class="swiper-slide">
+                  <div class="testimonial-item">
+                    <p>
+                      <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                      Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                      <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                    </p>
+                    <img src="~/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+                    <h3>Sara Wilsson</h3>
+                    <h4>Designer</h4>
+                  </div>
+                </div><!-- End testimonial item -->
+
+                <div class="swiper-slide">
+                  <div class="testimonial-item">
+                    <p>
+                      <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                      Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                      <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                    </p>
+                    <img src="~/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+                    <h3>Jena Karlis</h3>
+                    <h4>Store Owner</h4>
+                  </div>
+                </div><!-- End testimonial item -->
+
+                <div class="swiper-slide">
+                  <div class="testimonial-item">
+                    <p>
+                      <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                      Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                      <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                    </p>
+                    <img src="~/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+                    <h3>Matt Brandon</h3>
+                    <h4>Freelancer</h4>
+                  </div>
+                </div><!-- End testimonial item -->
+
+                <div class="swiper-slide">
+                  <div class="testimonial-item">
+                    <p>
+                      <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                      Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                      <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                    </p>
+                    <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+                    <h3>John Larson</h3>
+                    <h4>Entrepreneur</h4>
+                  </div>
+                </div><!-- End testimonial item -->
+
+              </div>
+              <div class="swiper-pagination"></div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Testimonials Section -->
+
+  
+
+  
+
+  </main><!-- End #main -->
+  @section Scripts{
+    <script>
+   
+    function getCategoryData(){
+        let categoryId= document.getElementById("categoryId").value;
+        console.log(categoryId);
+         $.ajax(
+             {
+                 url: "/Book/GetBooksByCategory",
+                 data:{"categoryId":categoryId},
+                 success: function(result)
+                 {
+                     console.log(result);
+                     $("#tbody").html("");
+                     $("#tbody").html(result);
+                 }
+             }
+            );
+
+    }
+
+    //////////////////////////////
+     function getAuthorData(){
+        let authorId= document.getElementById("authorId").value;
+        console.log(authorId);
+         $.ajax(
+             {
+                 url: "/Book/GetBooksByAuthors",
+                 data:{"authorId":authorId},
+                 success: function(result)
+                 {
+                     console.log(result);
+                     $("#tbody").html("");
+                     $("#tbody").html(result);
+                 }
+             }
+            );
+
+    }
+
+    ///////////////////////////////
+     function getData(){
+        let bookName= document.getElementById("bookName").value;
+        console.log(bookName);
+         $.ajax(
+             {
+                 url: "/Book/GetBookByName",
+                 data:{"bookName":bookName},
+                 success: function(result)
+                 {
+                     console.log(result);
+                     $("#tbody").html("");
+                     $("#tbody").html(result);
+                 }
+             }
+            );
+
+    }
+    ////////////////////////////////
+        function AddToFavs(id)
+    {
+            let icon = document.getElementById("favIcon");
+            icon.style.color='red';
+
+        $.ajax(
+             {
+                 url: "/FavList/AddToFav",
+                 data:{"id":id},
+               
+             }
+            );
+    }
+    </script>
+}

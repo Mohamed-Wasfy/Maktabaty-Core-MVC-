@@ -1,0 +1,248 @@
+﻿@model Book
+
+@{
+	ViewData["Title"] = "Details";
+}
+
+<main id="main">
+
+	<!-- ======= Portfolio Details Section ======= -->
+	<section id="portfolio-details" class="portfolio-details">
+		<div class="container">
+
+			<div class="row gy-4">
+
+				<div class="col-lg-8">
+					<div class="portfolio-details-slider swiper">
+						<div class="swiper-wrapper align-items-center">
+
+							<div class="swiper-slide">
+								<img src="~/Images/@Model.Image" alt="">
+							</div>
+
+							<div class="swiper-slide">
+								<img src="~/Images/2.jpg" alt="">
+							</div>
+
+							<div class="swiper-slide">
+								<img src="~/Images/3.jpg" alt="">
+							</div>
+
+						</div>
+						<div class="swiper-pagination"></div>
+					</div>
+				</div>
+
+				<div class="col-lg-4">
+					<div class="portfolio-info">
+						<h3>Book information</h3>
+						<ul>
+							<li>
+								@for (var i = 0; i < @Model.TotalRate; i++)
+								{
+									<span style="color:yellow" class="bi bi-star"></span>
+
+								}
+								@for (var i = 0; i < 5 - @Model.TotalRate; i++)
+								{
+									<span class="bi bi-star"></span>
+
+								}
+							</li>
+							<li><strong>Name</strong>:@Model.Name</li>
+							<li><strong>Category</strong>:@Model.Category.Name</li>
+							<li><strong>Language</strong>: @Model.Language</li>
+							<li><strong>Publish Date</strong>:@Model.PublishDate</li>
+							<li><strong>Pages</strong>: @Model.Pages</li>
+							<li>
+								<strong>Authors</strong>:<br />
+								@foreach (var item in Model.authors)
+								{
+									@item.Name
+									<br />
+								}
+
+							</li>
+						</ul>
+
+						<p>
+							@* ///////////////////////*@
+							@if (!(ViewBag.HasReview.UserId != null))
+							{
+								<button onclick="showBox()" id="ratBtn" type="button" class="btn btn-primary noor-btn "> Rate</button>
+							}
+							else
+							{
+								<button onclick="showEdit()" id="ratBtn" type="button" class="btn btn-secondary noor-btn ">Edite Your Rate</button>
+
+							}
+							<a type="button" asp-controller="Reviews" asp-action="index" asp-route-id="@Model.Id" class="btn btn-outline-warning">See All Reviews</a>
+
+							@*		<button type="button" class="btn btn-secondary">Secondary</button>
+								<button type="button" class="btn btn-success">Success</button>
+								<button type="button" onclick="showBox()" class="btn btn-info">Write a comment</button>
+
+								<button type="button" class="btn btn-warning">Warning</button>
+							*@
+							@*////////////////////////////*@
+						</p>
+						@if (!(ViewBag.HasReview.UserId != null))
+						{
+
+
+							<div id="RatingForm" hidden>
+
+
+								@*<form method="post" asp-route-id="@ViewBag.userId" asp-controller="Reviews"  asp-action="Create">*@
+
+								<form method="post" asp-controller="Reviews" asp-action="Create">
+									<textarea rows="6" name="Comment" style="width:80%; margin:1rem auto "></textarea>
+									<br />
+									<input type="number" name="Rate" id="val" hidden value="0" />
+									<input type="number" name="UserId" hidden value="@ViewBag.userId" />
+									<input type="number" name="BookId" hidden value="@Model.Id" />
+									<br />
+									<div id="stars">
+										<span id="1" onclick="checkStar(event.target)" onmouseover="mOver(this)" onmouseout="mOut(this)" class="bi bi-star star"></span>
+										<span id="2" onclick="checkStar(event.target)" onmouseover="mOver(this)" onmouseout="mOut(this)" class="bi bi-star star"></span>
+										<span id="3" onclick="checkStar(event.target)" onmouseover="mOver(this)" onmouseout="mOut(this)" class="bi bi-star star"></span>
+										<span id="4" onclick="checkStar(event.target)" onmouseover="mOver(this)" onmouseout="mOut(this)" class="bi bi-star star"></span>
+										<span id="5" onclick="checkStar(event.target)" onmouseover="mOver(this)" onmouseout="mOut(this)" class="bi bi-star star"></span>
+									</div>
+
+									<input onclick="hideForm()" type="submit" />
+								</form>
+							</div>
+						}
+						else
+						{
+
+
+							<div id="EditingForm">
+
+
+								<form method="post" asp-controller="Reviews" asp-action="Edit">
+
+									<textarea rows="6" name="Comment" style="width:80%; margin:1rem auto">@ViewBag.HasReview.Comment</textarea>
+									<br />
+									<input type="number" name="Rate" id="val" hidden value="@ViewBag.HasReview.Rate" />
+									<input type="number" name="UserId" hidden value="@ViewBag.userId" />
+									<input type="number" name="BookId" hidden value="@Model.Id" />
+									<br />
+									<div id="stars">
+										<span id="1" onclick="checkStar(event.target)" onmouseover="mOver(this)" onmouseout="mOut(this)" class="bi bi-star star"></span>
+										<span id="2" onclick="checkStar(event.target)" onmouseover="mOver(this)" onmouseout="mOut(this)" class="bi bi-star star"></span>
+										<span id="3" onclick="checkStar(event.target)" onmouseover="mOver(this)" onmouseout="mOut(this)" class="bi bi-star star"></span>
+										<span id="4" onclick="checkStar(event.target)" onmouseover="mOver(this)" onmouseout="mOut(this)" class="bi bi-star star"></span>
+										<span id="5" onclick="checkStar(event.target)" onmouseover="mOver(this)" onmouseout="mOut(this)" class="bi bi-star star"></span>
+									</div>
+
+									<input onclick="sendForm()" type="submit" />
+								</form>
+							</div>
+						}
+					</div>
+					<div class="portfolio-description">
+						<h2>This is an example of Book Description</h2>
+						<p>
+							@Model.Description
+						</p>
+					</div>
+				</div>
+
+			</div>
+
+		</div>
+	</section><!-- End Portfolio Details Section -->
+
+</main><!-- End #main -->
+@section Scripts {
+
+<script>
+
+	//let container = document.getElementById("Rating");
+	//container.setAttribute("Hidden",true)
+
+$(document).ready(function () {
+   	var xd= document.getElementById("EditingForm");
+	xd.setAttribute("hidden","true");
+
+document.getElementById("RatingForm").setAttribute("hidden","");
+		reload()
+
+
+});
+
+
+
+	//fetch doc
+	var starsclick = document.getElementsByClassName("star");
+
+	var starshover = document.getElementsByClassName("star");
+	var val = document.getElementById("val");
+
+
+	 function showBox(){
+		//get all hiden elment
+		document.getElementById("RatingForm").removeAttribute("hidden");
+		//removeAttribute("href")
+	}
+
+	function showEdit(){
+		document.getElementById("EditingForm").removeAttribute("hidden");
+		var x = document.getElementById("val").value;
+		var el = document.getElementById(`${x}`)
+		console.log(x);
+		console.log(el);
+		checkStar(el);
+	}
+	function hideForm(){
+
+		document.getElementById("RatingForm").setAttribute("hidden","");
+		document.getElementById("ratBtn").setAttribute("hidden","");
+		reload()
+
+
+	}
+	function sendForm(){
+		
+		console.log("hi joe")
+		
+		document.getElementById("EditingForm").setAttribute("hidden","true");
+				reload();
+
+	}
+
+
+
+
+	function checkStar(t){
+		var elment = document.getElementById(t.id);
+		//elment.setAttribute("style","color:yellow")
+		for (let i = 0; i < 5; i++) {
+		  starsclick[i].setAttribute("style","")
+		}
+		for (let i = 0; i < t.id; i++) {
+		  starsclick[i].setAttribute("style","color:yellow")
+		}
+		val.setAttribute("value",`${t.id}`);
+	}
+	function reload(){
+		window.location.reload();
+	}
+
+
+	function mOver(t){
+		for (let i = 0; i < t.id; i++) {
+		  starshover[i].classList.add("yellowHover");
+		}
+	}
+	function mOut(t){
+			for (let i = 0; i < 5; i++) {
+		  starshover[i].classList.remove("yellowHover");
+		}
+	}
+
+</script>
+
+}

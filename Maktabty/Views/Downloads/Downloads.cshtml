@@ -1,0 +1,22 @@
+﻿@model List<Book>
+@{
+    ViewData["Title"] = "Downloads";
+}
+
+<div class="container m-5">
+<h1 class = "mb-5">Downloads</h1>
+<div class = "d-flex flex-row">
+        @foreach (var item in Model)
+        {
+        <div class="card mr-5" style="width: 30rem;">
+          <img src="~/Images/@item.Image" class="card-img-top" alt="..." style="height:70%">
+           <div class="card-body">
+           <h5 class="card-title">@item.Name</h5>
+           <a href="~/Book/Details/@item.Id" class="btn" style ="background-color:#009970; color:white">view book</a>
+           <a href="/Downloads/RemoveDownload/@item.Id" class="btn"style ="background-color:#009970;color:white">delete book</a>
+           </div>
+        </div>
+       }
+</div>
+</div>
+

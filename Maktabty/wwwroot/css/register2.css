@@ -1,0 +1,81 @@
+html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+.register{
+    background-image: url("./images/register1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding:3em 0 5em 0;
+    opacity: 0.9;
+}
+.register h1{
+ padding-bottom: 1em;
+    color: #fff;
+}
+.register .data{
+padding: 2em;
+background-color: #fff;
+border-radius: 15px;
+position: relative;
+top: 10px;
+}
+.register .data .first img{
+    width: 100%;
+    height:100%;
+    border-radius: 10px;
+}
+.register .data .second input{
+   width: 100%;
+   padding: 1.5em 0;
+   outline: none !important;
+   border:none;
+   border-bottom: 2px solid #ccc !important;
+}
+.register .data .second input::placeholder{
+   font-size: 1.6em;
+ }
+    .register .data .second input[type=submit] {
+        width: 90%;
+        margin: 1em 5%;
+        padding: 0.8em 0;
+        outline: none !important;
+        color: #fff;
+        background-color: #009970;
+        border: 1px solid #47b648;
+        font-size: 1.6em;
+    }
+.register p{
+    font-size: 1.3em ;
+}
+.register a{
+    color:#47b648 ;
+    cursor: pointer;  
+}
+.register a:hover{
+    color:#47b648 ;
+}
+@media screen and (max-width:768px){
+    .register .data .first img{
+        width: 90%;
+        margin-left:5%;
+    }
+}
+@media screen and (max-width:320px){
+    .register .data .first img{
+        width: 100%;
+        margin-left:0 !important;
+    }
+    .register .data .second input{
+        width: 100%;
+        margin: 1em 0;
+     }
+}
+.register .validation{
+    position: relative;
+    left: 75%;
+    top: 40px;
+    color: #f00;
+    display: none;
+}

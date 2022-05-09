@@ -1,0 +1,97 @@
+﻿@model Maktabty.viewModels.RegisterVM
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<section class="register">
+       <div class="container">
+           <div class="row text-center">
+               <div class="col col-lg-12">
+                   <h1>Register</h1>
+               </div>
+           </div>
+           <div class="row data">
+               <div class="col col-12 col-sm-12 col-md-12 col-lg-5 first">
+               <img src="~/img/register.jpeg">
+               </div>
+               <div class="col col-12 col-sm-12 col-md-12 col-lg-7 second">
+                   <div class="row">
+                        <form asp-action="Register" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+               <div class="form-group">
+                <label asp-for="UserName" class="control-label"></label>
+                <input asp-for="UserName" class="form-control" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+             
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ConfirmPassword" class="control-label"></label>
+                <input asp-for="ConfirmPassword" class="form-control" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Address" class="control-label"></label>
+                <input asp-for="Address" class="form-control" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Phone" class="control-label"></label>
+                <input asp-for="Phone" class="form-control" />
+                <span asp-validation-for="Phone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Gender" class="control-label"></label>
+                <br />
+               <label>Male</label>
+               <input type="radio" name="Gender" value="Male" style="    width: 15%;
+    position: relative;
+    left: -5px;
+    top: 2px;"/>
+               <label>Female</label>
+               <input type="radio" name="Gender" value="Female" style="    position: relative;
+    top: -18px;
+    left: -108px;"/>
+              
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="birthDate" class="control-label"></label>
+                <input asp-for="birthDate" class="form-control" />
+                <span asp-validation-for="birthDate" class="text-danger"></span>
+            </div>
+          <div>
+        <label asp-for="Image"></label>
+        <input asp-for="Image" class="form-control"  style="margin: 20px 0;padding: 25px 0;"/>
+        <span asp-validation-for="Image" class="text-danger"></span>
+    </div>
+            <div class="form-group">
+                <input type="submit" value="Create"/>
+            </div>
+              <div class="row text-center">
+                            <div class="col col-lg-12">
+                                <p>Already a Member? <a href="/Account/Login">Go and Login</a></p>
+                               </div>
+                          </div>
+        </form>
+                    
+                 
+                   </div>
+            </div>
+           </div>
+   </section>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

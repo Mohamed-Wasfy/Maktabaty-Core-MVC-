@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Categories";
+    Layout = "_DashboardLayout.cshtml";
+    SelectList Cats = new SelectList(ViewBag.Cats,"Id","Name");
+    //SelectList Authors = new SelectList(ViewBag.Authors, "Id", "Name");
+}
+@model Category
+<h1>New Category</h1>
+<form method="post" asp-action="SaveNewCategory" asp-controller="Admin">
+    <div>
+         <label for="Name">Name</label>
+         <input asp-for="@Model.Name" class="form-control"/>
+         <span asp-validation-for="@Model.Name"></span>
+    </div>
+    <br/>
+    <input type="submit" value="Add" class="btn" style="background-color:#009970"/>
+</form>
+<br/>
+<a href="/Admin/Categories" class="btn" style="    position: relative;
+    left: 90%;
+    top: -37px;background-color:#009970">Back To List</a>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>

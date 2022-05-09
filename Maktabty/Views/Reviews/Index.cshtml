@@ -1,0 +1,73 @@
+﻿@model List<Review>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Book Name : @ViewBag.BookName</h1>
+
+@*<p>
+    <a asp-action="Create" asp-route-Id="@ViewBag.Id">Add Review</a>
+</p>*@
+
+@*<div> book Name : @Model[0].Book.Name </div>
+*@
+               <a asp-action="Details" asp-controller="book" asp-route-Id="@ViewBag.Id">Back To Book</a> 
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                User
+            </th>
+           @* <th>
+                Book
+            </th>*@
+            <th>
+                Rate
+            </th>
+            <th>
+                Comment
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.Name)
+            </td>
+           @* <td>
+                @Html.DisplayFor(modelItem => item.Book.Name)
+            </td>*@
+            <td>
+                @*@Html.DisplayFor(modelItem => item.Rate)*@
+                   <p>
+                     @for (var i = 0; i < item.Rate; i++)
+                    {
+                         <span style="color:yellow" class="bi bi-star"></span>
+
+                    }
+                     @for (var i = 0; i < 5-item.Rate; i++)
+                    {
+                         <span class="bi bi-star"></span>
+
+                    }
+                 </p>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Comment)
+            </td>
+            <td>
+@*                @Html.ActionLink("Edit", "Edit", new { bookId=item.BookId,userId= item.UserId })
+*@              @*  <a asp-action="Edit" asp-controller="Reviews" asp-route-bookId="@item.BookId" asp-route="@item.UserId"></a> |*@
+              @*  @Html.ActionLink("Details", "Details", new {bookId=item.BookId,userId= item.UserId })*@
+               @*<a asp-action="Details" asp-controller="Reviews" asp-route-bookId="@item.BookId" asp-route-userId="@item.UserId">Details</a> |*@
+            @*   <a asp-action="Details" asp-controller="book" asp-route-Id="@item.BookId" asp-route-userId="@item.UserId">Back To Book</a> *@
+           @*     @Html.ActionLink("Delete", "Delete", new { bookId=item.BookId,userId= item.UserId })*@
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

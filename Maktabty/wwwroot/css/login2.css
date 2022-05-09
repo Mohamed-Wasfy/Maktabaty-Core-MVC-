@@ -1,0 +1,66 @@
+html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+.login{
+    background-image: url("~/img/register1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    padding: 1em 0 11.1em 0;
+}
+.login h1{
+    color: #fff;
+    padding: 1em 0;
+}
+.login .login-content{
+background-color: #fff;
+border-radius: 10px;
+padding: 8em 1em;
+}
+.login .login-content i{
+    display: inline-block;
+}
+.login .login-content input{
+        width: 100%;
+        padding: 1.5em 0;
+        outline: none !important;
+        border:none;
+        border-bottom: 2px solid #ccc !important;
+}
+.login .login-content input::placeholder{
+        font-size: 1.6em;
+}
+.login .login-content p{
+    margin-left: 5%;
+    font-size: 2em;
+    font-weight: bold;
+}
+.login .login-content p:hover{
+ color: #47b648;
+}
+    .login .login-content input[type=submit] {
+        width: 100%;
+        padding: 0.7em 0;
+        outline: none !important;
+        color: #fff;
+        background-color: #009970;
+        border: 1px solid #47b648;
+        font-size: 1.6em;
+    } 
+.login .login-content .signup a{
+    color:#47b648 ;
+    cursor: pointer;
+    font-size: 1.4em !important;
+    font-weight: normal !important;
+
+}
+.login .login-content .signup a:hover{
+    color:#47b648 ;
+}  
+.login .validation{
+    position: relative;
+    left: 75%;
+    top: 40px;
+    color: #f00;
+}

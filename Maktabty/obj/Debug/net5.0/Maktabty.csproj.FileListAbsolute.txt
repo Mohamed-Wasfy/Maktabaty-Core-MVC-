@@ -1,0 +1,832 @@
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\appsettings.Development.json
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\appsettings.json
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.exe
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.deps.json
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.runtimeconfig.json
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.runtimeconfig.dev.json
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.pdb
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.Views.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.Views.pdb
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Humanizer.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.csproj.AssemblyReference.cache
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.AssemblyInfoInputs.cache
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.AssemblyInfo.cs
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.csproj.CoreCompileInputs.cache
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorAssemblyInfo.cache
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorAssemblyInfo.cs
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\scopedcss\bundle\Maktabty.styles.css
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\staticwebassets\Maktabty.StaticWebAssets.Manifest.cache
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.TagHelpers.input.cache
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.TagHelpers.output.cache
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorCoreGenerate.cache
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorTargetAssemblyInfo.cache
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorTargetAssemblyInfo.cs
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.Views.pdb
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.csproj.CopyComplete
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\refint\Maktabty.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.pdb
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.genruntimeconfig.cache
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\ref\Maktabty.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Account\RegisterAdmin.cshtml.g.cs
+D:\ITI\ASP.NET MVC Core\Project\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\appsettings.json
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.exe
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.deps.json
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.runtimeconfig.json
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.runtimeconfig.dev.json
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.pdb
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.Views.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.Views.pdb
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Humanizer.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.csproj.AssemblyReference.cache
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.AssemblyInfoInputs.cache
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.AssemblyInfo.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.csproj.CoreCompileInputs.cache
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorAssemblyInfo.cache
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorAssemblyInfo.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\scopedcss\bundle\Maktabty.styles.css
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\staticwebassets\Maktabty.StaticWebAssets.Manifest.cache
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.TagHelpers.input.cache
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.TagHelpers.output.cache
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorCoreGenerate.cache
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Account\RegisterAdmin.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorTargetAssemblyInfo.cache
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorTargetAssemblyInfo.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.Views.pdb
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.csproj.CopyComplete
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\refint\Maktabty.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.pdb
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.genruntimeconfig.cache
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\ref\Maktabty.dll
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Book\Details.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Book\Index.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_BookByCategoryListPartial.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_BookByAuthorListPartial.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_BookByNameListPartial.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_NavBar.cshtml.g.cs
+<<<<<<< HEAD
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\appsettings.Development.json
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\appsettings.json
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.exe
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.deps.json
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.runtimeconfig.json
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.runtimeconfig.dev.json
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.pdb
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.Views.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.Views.pdb
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Humanizer.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Projects\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.csproj.AssemblyReference.cache
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.AssemblyInfoInputs.cache
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.AssemblyInfo.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.csproj.CoreCompileInputs.cache
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorAssemblyInfo.cache
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorAssemblyInfo.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\scopedcss\bundle\Maktabty.styles.css
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\staticwebassets\Maktabty.StaticWebAssets.Manifest.cache
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.TagHelpers.input.cache
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.TagHelpers.output.cache
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorCoreGenerate.cache
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Account\RegisterAdmin.cshtml.g.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Book\Details.cshtml.g.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Book\Index.cshtml.g.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_BookByAuthorListPartial.cshtml.g.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_BookByCategoryListPartial.cshtml.g.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_BookByNameListPartial.cshtml.g.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_NavBar.cshtml.g.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorTargetAssemblyInfo.cache
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorTargetAssemblyInfo.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.Views.pdb
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.csproj.CopyComplete
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.dll
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\refint\Maktabty.dll
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.pdb
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.genruntimeconfig.cache
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\ref\Maktabty.dll
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\Authors.cshtml.g.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\Books.cshtml.g.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\Categories.cshtml.g.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\Users.cshtml.g.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\_DashboardLayout.cshtml.g.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\BookDetails.cshtml.g.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\NewBook.cshtml.g.cs
+F:\Projects\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\EditBook.cshtml.g.cs
+=======
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.csproj.AssemblyReference.cache
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.GeneratedMSBuildEditorConfig.editorconfig
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.AssemblyInfoInputs.cache
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.AssemblyInfo.cs
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.csproj.CoreCompileInputs.cache
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.MvcApplicationPartsAssemblyInfo.cache
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorAssemblyInfo.cache
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorAssemblyInfo.cs
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\refint\Maktabty.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.pdb
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\appsettings.Development.json
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\appsettings.json
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.exe
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.deps.json
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.runtimeconfig.json
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.runtimeconfig.dev.json
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.pdb
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.Views.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.Views.pdb
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Humanizer.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\scopedcss\bundle\Maktabty.styles.css
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\staticwebassets\Maktabty.StaticWebAssets.Manifest.cache
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.TagHelpers.input.cache
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.TagHelpers.output.cache
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorCoreGenerate.cache
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Account\RegisterAdmin.cshtml.g.cs
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Book\Details.cshtml.g.cs
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Book\Index.cshtml.g.cs
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Downloads\Downloads.cshtml.g.cs
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\FavList\FavList.cshtml.g.cs
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Profile\UserData.cshtml.g.cs
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_BookByAuthorListPartial.cshtml.g.cs
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_BookByCategoryListPartial.cshtml.g.cs
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_BookByNameListPartial.cshtml.g.cs
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_NavBar.cshtml.g.cs
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorTargetAssemblyInfo.cache
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorTargetAssemblyInfo.cs
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.Views.pdb
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.csproj.CopyComplete
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.genruntimeconfig.cache
+D:\SD\Projects\MVC ASP.NET\Maktabty\Maktabty\obj\Debug\net5.0\ref\Maktabty.dll
+>>>>>>> 5d5db056a5c1ba4f1ad87a1e6a9ee43d439ba10f
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.csproj.AssemblyReference.cache
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.AssemblyInfoInputs.cache
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.AssemblyInfo.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.csproj.CoreCompileInputs.cache
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.MvcApplicationPartsAssemblyInfo.cache
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorAssemblyInfo.cache
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorAssemblyInfo.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\refint\Maktabty.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.pdb
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\appsettings.Development.json
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\appsettings.json
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.exe
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.deps.json
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.runtimeconfig.json
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.runtimeconfig.dev.json
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.pdb
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.Views.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Maktabty.Views.pdb
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Humanizer.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\scopedcss\bundle\Maktabty.styles.css
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\staticwebassets\Maktabty.StaticWebAssets.Manifest.cache
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.TagHelpers.input.cache
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.TagHelpers.output.cache
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorCoreGenerate.cache
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Account\RegisterAdmin.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\Authors.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\BookDetails.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\Books.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\Categories.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\EditBook.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\NewBook.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\Users.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\_DashboardLayout.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Book\Details.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Book\Index.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Downloads\Downloads.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\FavList\FavList.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Profile\UserData.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_BookByAuthorListPartial.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_BookByCategoryListPartial.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_BookByNameListPartial.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_NavBar.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorTargetAssemblyInfo.cache
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.RazorTargetAssemblyInfo.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.Views.pdb
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.csproj.CopyComplete
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Maktabty.genruntimeconfig.cache
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\ref\Maktabty.dll
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\NewAuthor.cshtml.g.cs
+F:\ITI_Course\MVC\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\NewCategory.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\Authors.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\BookDetails.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\Books.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\Categories.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\EditBook.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\NewAuthor.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\NewBook.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\NewCategory.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\Users.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Admin\_DashboardLayout.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Downloads\Downloads.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\FavList\FavList.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Profile\UserData.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Reviews\Index.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Downloads\Download.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\FavList\AddToFav.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Profile\profile.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Shared\_EmptyLayout.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Downloads\_EmptyLayout.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\_EmptyLayout.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Book\About.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Book\Contact.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Book\Services.cshtml.g.cs
+C:\Users\طيبة\Desktop\Maktabty\Maktabty\obj\Debug\net5.0\Razor\Views\Book\Team.cshtml.g.cs
